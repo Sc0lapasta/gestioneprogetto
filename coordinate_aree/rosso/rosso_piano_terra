@@ -1,0 +1,44 @@
+[
+  {
+    "alt": "Aula B25 L1",
+    "coords": "1692,483,1962,755",
+    "href": "#roomB25L1",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  },
+  {
+    "alt": "Aula Magna L1",
+    "coords": "1692,755,1962,1303",
+    "href": "#roomAulaMagnaL1",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  },
+  {
+    "alt": "Aula B11 L1",
+    "coords": "2098,1805,2368,2085",
+    "href": "#roomB11L1",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  },
+  {
+    "alt": "Aula B13 L1",
+    "coords": "2370,1805,2642,2083",
+    "href": "#roomB13L1",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  },
+  {
+    "alt": "Aula B15 L1",
+    "coords": "2640,1807,2912,2079",
+    "href": "#roomB15L1",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  },
+  {
+    "alt": "Aula B17 L1",
+    "coords": "2912,1803,3188,2077",
+    "href": "#roomB17L1",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  }
+]
