@@ -1,0 +1,86 @@
+[
+  {
+    "alt": "Aula C28 L2",
+    "coords": "346,490,618,762",
+    "href": "#roomC28L2",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  },
+  {
+    "alt": "Aula C26 L2",
+    "coords": "347,781,622,1050",
+    "href": "#roomC26L2",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  },
+  {
+    "alt": "Aula C24 L2",
+    "coords": "348,1074,618,1346",
+    "href": "#roomC24L2",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  },
+  {
+    "alt": "Aula C25 L2",
+    "coords": "743,637,1018,909",
+    "href": "#roomC25L2",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  },
+  {
+    "alt": "Aula C23 L2",
+    "coords": "746,928,1018,1200",
+    "href": "#roomC23L2",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  },
+  {
+    "alt": "Aula C21 L2",
+    "coords": "743,1217,1020,1499",
+    "href": "#roomC21L2",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  },
+  {
+    "alt": "Lab L2P1",
+    "coords": "349,1935,789,2307",
+    "href": "#roomLabL2P1",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  },
+  {
+    "alt": "Aula C09/C02 L2",
+    "coords": "808,1936,1016,2307",
+    "href": "#roomC09/C02L2",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  },
+  {
+    "alt": "Aula C11 L2",
+    "coords": "1047,1639,1321,1936",
+    "href": "#roomC11L2",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  },
+  {
+    "alt": "Aula C13 L2",
+    "coords": "1339,1640,1611,1934",
+    "href": "#roomC13L2",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  },
+  {
+    "alt": "Aula C15 L2",
+    "coords": "1631,1639,1904,1935",
+    "href": "#roomC15L2",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  },
+  {
+    "alt": "Aula C17 L2",
+    "coords": "1924,1639,2196,1934",
+    "href": "#roomC17L2",
+    "shape": "rect",
+    "onclick": "showRoomName(this)"
+  }
+]
